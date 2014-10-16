@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cjp:home|Door43 (cjp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cjp|d43-cjp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cjp/archive/master.zip|d43-cjp.zip]]
+
+**Recent Changes**
+{{changes>ns = cjp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cjp|Ethnologue data]]
+
